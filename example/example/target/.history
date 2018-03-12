@@ -1,0 +1,4 @@
+sbt
+console
+test
+run
