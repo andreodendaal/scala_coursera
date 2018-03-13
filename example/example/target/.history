@@ -2,3 +2,4 @@ sbt
 console
 test
 run
+sbt 
